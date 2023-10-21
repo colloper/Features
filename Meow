@@ -1,0 +1,30 @@
+Features :
+
+Silent Aim
+Type - Silent Aim, Target Aim
+Modes - Blatant, Safe 
+Prediction - Use Prediction
+Auto Prediction - Calculates A New Prediction Based Off Your Ping/Default Prediction.
+Spectate
+Target Strafe
+Look At
+Offset
+Auto Offset - Calculates A New Offset Based Off Your Ping/Default Offset.
+
+Misc 
+Checks - Wall, Knocked, Visible, Grabbed, Crew, Friend
+Target Indicator - Health, Armor, Name, Anti Locking, Studs
+Hit Sounds - Volume, Custom Sound ID
+Resolver - Calculate Position, Smooth Velocity
+Speed - Move Direction, Walk Speed
+
+Visuals
+LGBTQ Mode
+Dot
+FOV
+Snap Line
+High Light
+3D Cube
+3D Circle
+
+and more...
